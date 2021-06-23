@@ -1,4 +1,8 @@
 ### Hi there 👋
+### A seasoned data scientist with in-depth knowledge in machine learning and artificial intelligence with background in market research
+### EMAIL: paulomikunle@gmail.com
+### Phone number: +2349050829969
+### Phone number: +2348096706456
 
 <!--
 **PAUL-OMIKUNLE/PAUL-OMIKUNLE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
